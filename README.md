@@ -9,5 +9,3 @@ Deployed at: https://prediction-clinic.herokuapp.com/
 
 
 https://user-images.githubusercontent.com/85150311/166723034-92e7bab6-7904-4697-947b-470a215e2d74.mp4
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/85150311/166724089-06887048-cad5-4a7b-99b1-e9176d5e6e35.gif)
