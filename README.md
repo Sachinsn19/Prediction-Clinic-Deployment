@@ -4,5 +4,5 @@
 * If you want to view the deployed model, click on the following link:
 
 Deployed at: https://prediction-clinic.herokuapp.com/
-* If you are searching for Code, Algorithms used and Accuracy of the models. you can find it on Notebook folder.
+* If you are searching for Code, Algorithms used and Accuracy of the models. you can find it on notebooks folder.
 * A glimpse of the web app:
